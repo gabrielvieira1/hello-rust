@@ -1,2 +1,9 @@
 # hello-rust
-Hello fellow Rustaceans!
+< Hello fellow Rustaceans! >
+----------------------------
+              \
+               \
+                 _~^~^~_
+             \) /  o o  \ (/
+               '_   -   _'
+               / '-----' \
